@@ -1,0 +1,7 @@
+{
+  "name": "Dice Demo",
+  "version": "1.0.0",
+  "description": "A small dice demo that shows how an OpenScrapp uses storage and vibration.",
+  "entrypoint": "index.html",
+  "permissions": ["storage", "vibration"]
+}
